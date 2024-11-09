@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7177098277001530401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1133921870257324511}
+  - component: {fileID: 6157006761573176332}
+  m_Layer: 0
+  m_Name: WeaponManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1133921870257324511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7177098277001530401}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6157006761573176332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7177098277001530401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aa014a5f6ad9a74d846baeff90db318, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireWeapon: {fileID: 0}
+  iceWeapon: {fileID: 0}
+  electricityWeapon: {fileID: 0}
+  fireButton: {fileID: 0}
+  iceButton: {fileID: 0}
+  electricityButton: {fileID: 0}
+  firingOff: {fileID: 0}
+  fireEffect: {fileID: 5155333487269979211, guid: c2361ed71a51b5b489f17119411d8a62,
+    type: 3}
+  frostEffect: {fileID: 7500520258610977732, guid: abfe240041067ab4c87e6bebd6eb8485,
+    type: 3}
+  electricEffect: {fileID: 3208857622644095548, guid: 9855520bb3c977f46ba27c9a6be3bb59,
+    type: 3}
+  fireImpact: {fileID: 162584487599433031, guid: 39f852c28f9c3fd45a427c24f3564ba7,
+    type: 3}
+  iceImpact: {fileID: 6675302182551818641, guid: 5bc9a0bf98f67d240a936bf476ba2082,
+    type: 3}
+  electricImpact: {fileID: 5933602760919840800, guid: fcb74f28d107e284e80af037bfec14ca,
+    type: 3}
+  bulletSpeed: 25
+  fireRate: 0.5
