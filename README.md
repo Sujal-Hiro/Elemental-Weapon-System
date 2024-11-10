@@ -41,4 +41,32 @@ Each weapon uses unique visual effects created using Shader Graph and VFX Graph.
 
 The fire weapon effect includes a vibrant, animated fire texture combined with particle-based flames to create a dynamic and fiery look.
 
-![Fire Effect Shader Graph](path/to/your/fire-effect-image.png)
+<img src="Screenshots/Fire.gif" width="300" height="300" />
+
+#### Ice Effect ❄️
+
+The ice effect involves frosty visuals with a cool color palette and particle effects that simulate snow or frost surrounding the weapon.
+
+<img src="Screenshots/Frost.gif" width="300" height="300" />
+
+#### Electric Effect ⚡
+
+The electric effect leverages lightning-like particle trails and sparks to simulate electricity, creating a powerful and electrifying appearance.
+
+<img src="Screenshots/Electric.gif" width="300" height="300" />
+
+## 🔥 Demonstration
+
+Each weapon's functionality and effects can be tested in-game by switching between Fire, Ice, and Electricity modes.
+
+
+
+
+
+
+
+
+## 👨‍💻 Author & Contributions
+Developed by Sujal Ramesh. Contributions are welcome! Feel free to open issues and submit pull requests.
+
+[Repository Link](https://github.com/Sujal-Hiro/Sujal-Hiro)
