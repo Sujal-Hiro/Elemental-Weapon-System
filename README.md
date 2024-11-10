@@ -58,8 +58,16 @@ The electric effect leverages lightning-like particle trails and sparks to simul
 ## 🔥 Demonstration
 
 Each weapon's functionality and effects can be tested in-game by switching between Fire, Ice, and Electricity modes.
+### Screenshots
 
-
+<p float="left">
+  <img src="Screenshots/SS_1.png" width="300" height="500" />
+  <img src="Screenshots/SS_2.png" width="300" height="500"  />
+</p>
+<p float="left">
+  <img src="Screenshots/SS_3.png"  width="300" height="500" />
+  <img src="Screenshots/SS_4.png"  width="300" height="500"  />
+</p>
 
 
 
