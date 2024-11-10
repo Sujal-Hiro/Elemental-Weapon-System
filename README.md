@@ -69,4 +69,4 @@ Each weapon's functionality and effects can be tested in-game by switching betwe
 ## 👨‍💻 Author & Contributions
 Developed by Sujal Ramesh. Contributions are welcome! Feel free to open issues and submit pull requests.
 
-[Repository Link](https://github.com/Sujal-Hiro/Sujal-Hiro)
+[Repository Link](https://github.com/Sujal-Hiro/Elemental-Weapon-System.git)
